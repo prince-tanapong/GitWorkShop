@@ -1,2 +1,3 @@
 class FizzBuzz:
-    pass
+    def xx():
+        print 'A'
