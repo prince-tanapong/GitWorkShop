@@ -2,5 +2,5 @@ class FizzBuzz:
     def xx():
         print 'A'
     def yy():
-        print 'xxx'
+        print 'x','''gsg
     def
