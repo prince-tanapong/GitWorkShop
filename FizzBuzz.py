@@ -1,2 +1,2 @@
-class FizzBuzz:
+class Sanook:
     pass
