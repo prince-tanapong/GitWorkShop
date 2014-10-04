@@ -5,4 +5,3 @@ class PrintNumber:
 
 class Sanook:
     pass
-
